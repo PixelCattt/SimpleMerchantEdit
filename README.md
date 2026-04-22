@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Flummidill/SimpleMerchantEdit/blob/HEAD/icons/SimpleMerchantEdit-250x250.png?raw=true" alt="SimpleMerchantEdit-Icon">
+  <img src="https://github.com/PixelCattt/SimpleMerchantEdit/blob/HEAD/icons/SimpleMerchantEdit-250x250.png?raw=true" alt="SimpleMerchantEdit-Icon">
   
   <h1>SimpleMerchantEdit</h1>
   <a href="https://modrinth.com/plugin/simple_merchant_edit/versions">

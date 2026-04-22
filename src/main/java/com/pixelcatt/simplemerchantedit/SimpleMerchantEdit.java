@@ -1,4 +1,4 @@
-package com.flummidill.simplemerchantedit;
+package com.pixelcatt.simplemerchantedit;
 
 
 import org.bukkit.configuration.file.FileConfiguration;
@@ -24,7 +24,7 @@ public class SimpleMerchantEdit extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("~ Created by Flummidill ~");
+        getLogger().info("~ Created by PixelCatt ~");
 
         // Initialize Villager-Manager
         getLogger().info("Initializing Merchant-Manager...");
