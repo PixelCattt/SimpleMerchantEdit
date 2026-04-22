@@ -1,4 +1,4 @@
-package com.flummidill.simplemerchantedit;
+package com.pixelcatt.simplemerchantedit;
 
 
 import org.bukkit.Bukkit;

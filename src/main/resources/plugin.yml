@@ -1,7 +1,7 @@
 name: SimpleMerchantEdit
-main: com.flummidill.simplemerchantedit.SimpleMerchantEdit
+main: com.pixelcatt.simplemerchantedit.SimpleMerchantEdit
 version: ${project.version}
-api-version: 1.13
+api-version: 1.21
 permissions:
   simplemerchantedit.admin:
     description: Allows use of all Admin Features
