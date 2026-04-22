@@ -89,7 +89,7 @@ public class JoinListener implements Listener {
             Text2.setUnderlined(true);
             Text2.setClickEvent(new ClickEvent(
                 ClickEvent.Action.OPEN_URL,
-                "https://modrinth.com/plugin/simple_ban/versions"
+                "https://modrinth.com/plugin/simple_merchant_edit/versions"
             ));
             message2.addExtra(Text2);
 
